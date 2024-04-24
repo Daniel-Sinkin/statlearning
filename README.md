@@ -51,7 +51,7 @@ These are my personal notes while working through the [Dive into Deep Learning](
 ## Labs Progress
 ### 2. ✅
 ### 3. ✅
-### 4. ❌
+### 4. ✅
 
 ## Technical Details
 I've tried to get this working with Python3.12, but it doesn't seem to be compatible so I'll stick to python 3.11 for this repo.
