@@ -7,7 +7,7 @@ wget https://www.statlearning.com/s/ALL-CSV-FILES-2nd-Edition-corrected.zip
 ```
 
 # Introduction
-These are my personal notes while working through the [Dive into Deep Learning](https://d2l.ai) Book
+These are my personal notes while working through the Introduction to Statistical Learning in Python Book
 
 # Exercise Progress
 ## 2. Statistical Learning 
