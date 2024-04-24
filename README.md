@@ -23,6 +23,7 @@ These are my personal notes while working through the [Dive into Deep Learning](
 8. ✅
 9. ✅
 10. ✅
+
 ## 3. Linear Regression 
 ### Conceptual
 1. ❌
@@ -42,9 +43,15 @@ These are my personal notes while working through the [Dive into Deep Learning](
 14. ❌
 15. ❌
 
+## 4. Classification
+### Conceptual
+1. ✅
+1. ✅
+
 ## Labs Progress
 ### 2. ✅
 ### 3. ✅
+### 4. ❌
 
 ## Technical Details
 I've tried to get this working with Python3.12, but it doesn't seem to be compatible so I'll stick to python 3.11 for this repo.
