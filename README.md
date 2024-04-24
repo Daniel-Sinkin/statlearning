@@ -59,7 +59,23 @@ These are my personal notes while working through the [Dive into Deep Learning](
 12. ❌
 ### Applied
 13. ❌
+    1. ✅
+    2. ✅
+    3. ✅
+    4. ✅
+    5. ❌
+    6. ❌
+    7. ❌
+    8. ❌
+    9. ❌
 14. ❌
+    1. ✅
+    2. ✅
+    3. ✅
+    4. ❌
+    5. ❌
+    6. ❌
+    7. ❌
 15. ✅
 16. ❌
 
