@@ -46,7 +46,23 @@ These are my personal notes while working through the [Dive into Deep Learning](
 ## 4. Classification
 ### Conceptual
 1. ✅
-1. ✅
+2. ✅
+3. ❌
+4. ❌
+5. ❌
+6. ❌
+7. ❌
+8. ❌
+9. ❌
+10. ❌
+11. ❌
+12. ❌
+### Applied
+13. ❌
+14. ❌
+15. ✅
+16. ❌
+
 
 ## Labs Progress
 ### 2. ✅
