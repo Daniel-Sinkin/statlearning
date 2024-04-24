@@ -47,7 +47,7 @@ These are my personal notes while working through the [Dive into Deep Learning](
 ### Conceptual
 1. ✅
 2. ✅
-3. ❌
+3. ✅
 4. ❌
 5. ❌
 6. ❌
@@ -81,10 +81,10 @@ These are my personal notes while working through the [Dive into Deep Learning](
 
 ## 5. Resampling Methods
 ### Conceptual
-1. ❌
-2. ❌
+1. ✅
+2. ✅
 3. ✅
-4. ❌
+4. ✅
 ### Applied
 5. ❌
 6. ❌
