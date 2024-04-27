@@ -58,16 +58,16 @@ These are my personal notes while working through the Introduction to Statistica
 11. ❌
 12. ❌
 ### Applied
-13. ❌
+13. ✅
     1. ✅
     2. ✅
     3. ✅
     4. ✅
-    5. ❌
-    6. ❌
-    7. ❌
-    8. ❌
-    9. ❌
+    5. ✅
+    6. ✅
+    7. ✅
+    8. ✅
+    9. ✅
 14. ❌
     1. ✅
     2. ✅
