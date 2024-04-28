@@ -92,11 +92,42 @@ These are my personal notes while working through the Introduction to Statistica
 8. ❌
 9. ❌
 
+## 5. Resampling Methods
+### Conceptual
+1. ✅
+2. ✅
+3. ✅
+4. ✅
+### Applied
+5. ❌
+6. ❌
+7. ❌
+8. ❌
+9. ❌
+
+## 7. Moving Beyond Linearity
+### Conceptual
+1. ✅
+2. ❌
+3. ❌
+4. ❌
+5. ❌
+### Applied
+6. ❌
+7. ❌
+8. ❌
+9. ❌
+10. ❌
+11. ❌
+12. ❌
+
 ## Labs Progress
 ### 2. ✅
 ### 3. ✅
 ### 4. ✅
 ### 5. ❌
+### 6. ❌
+### 7. ✅
 
 ## Technical Details
 I've tried to get this working with Python3.12, but it doesn't seem to be compatible so I'll stick to python 3.11 for this repo.
