@@ -101,14 +101,14 @@ These are my personal notes while working through the Introduction to Statistica
 5. ❌
 
 ### Applied
-1. ❌
-2. ❌
-3. ❌
-4. ❌
-5. ❌
-6. ❌
+6. ✅
 7. ❌
 8. ❌
+9. ❌
+10. ❌
+11. ❌
+12. ❌
+13. ❌
 
 ## Labs Progress
 ### 2. ✅
